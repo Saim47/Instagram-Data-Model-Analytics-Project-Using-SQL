@@ -241,3 +241,21 @@ FROM (
 ) AS likes_by_post;
 ```
 ![1737012751131](https://github.com/user-attachments/assets/8ce517a3-8c0d-422a-9eaa-aa8b56249ab0)
+
+![image](https://github.com/user-attachments/assets/153be17a-cdd8-4b3a-9431-2c0e54532fb3)
+
+![image](https://github.com/user-attachments/assets/50ae9ebd-80c3-446d-ac40-32c58701cc89)
+
+![image](https://github.com/user-attachments/assets/5c14356f-c1c7-437c-b440-b28b882e504f)
+
+![image](https://github.com/user-attachments/assets/ce7b7d7a-fc1b-475d-b5d3-dd4217869436)
+
+![image](https://github.com/user-attachments/assets/9c77a154-eb3c-4848-8e3d-3ea9a9183d27)
+
+
+
+
+
+
+
+
