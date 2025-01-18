@@ -252,10 +252,60 @@ FROM (
 
 ![image](https://github.com/user-attachments/assets/9c77a154-eb3c-4848-8e3d-3ea9a9183d27)
 
+![image](https://github.com/user-attachments/assets/bebec83e-da72-4140-a4c1-407381259b34)
+
+![image](https://github.com/user-attachments/assets/78ee4696-589d-4872-b377-e748b76d6d02)
+
+![image](https://github.com/user-attachments/assets/2afe863d-c29b-4816-9b05-4864c50ef6b6)
+
+![image](https://github.com/user-attachments/assets/10a57ade-3fcd-4bfa-9b1c-3256e7dd9381)
+
+![image](https://github.com/user-attachments/assets/e0fcc8e8-1030-437a-9174-89b85cd834f2)
+
+![image](https://github.com/user-attachments/assets/5d07612d-9647-4194-9ed3-925ead98a7ae)
+
+![image](https://github.com/user-attachments/assets/ed843948-bd89-4cde-8813-b3e06699115b)
+
+![image](https://github.com/user-attachments/assets/051813ef-7761-44b3-9a87-b8dce7274ea3)
+
+![image](https://github.com/user-attachments/assets/f63d8b67-3ca8-4979-a97d-fd61b4903a79)
+
+#
+## Conclusion
+
+In this project, we successfully designed and implemented a MYSQL data model for Instagram, covering key SQL concepts and techniques. We demonstrated the creation of various tables that represent Instagram data, including users, posts, comments, likes, and followers. Additionally, we executed several SQL operations such as creating tables, inserting and updating data, and performing complex analytics queries. Here are the key learning outcomes:
+
+1. **Data Modeling with SQL**:  
+   - Developed a relational database schema representing Instagram's core functionalities, including users, posts, comments, likes, and followers.
+   - Designed tables with appropriate data types, constraints, and foreign key relationships to ensure data integrity.
+
+2. **Advanced SQL Techniques**:  
+   - Gained experience with advanced SQL concepts, including aggregation functions, subqueries, window functions, Common Table Expressions (CTEs), and case statements.
+   - Learned to write complex queries to extract, manipulate, and analyze data efficiently.
+
+3. **Data Insertion and Updates**:  
+   - Learned how to insert large datasets into the database while adhering to data constraints (e.g., unique email addresses and phone numbers).
+   - Explored how to update specific records in a table and track changes.
+
+4. **Analytics and Reporting**:  
+   - Practiced using SQL for data analysis, including grouping and aggregating data to generate meaningful insights (e.g., counting likes, ranking posts).
+   - Applied the `WHERE`, `ORDER BY`, and `HAVING` clauses to filter and organize data for reporting.
+
+5. **Optimizing Queries with Window Functions and CTEs**:  
+   - Leveraged window functions to rank data dynamically and used CTEs for cleaner, more readable queries when working with complex joins.
+
+6. **Problem-Solving and SQL Optimization**:  
+   - Developed a deeper understanding of how to structure SQL queries for optimal performance and readability while handling large datasets.
+
+Through this project, we have built a solid foundation in SQL and data modeling, which are crucial skills for working with relational databases and performing data analysis in real-world applications.
 
 
+Gained proficiency in working with date and time functions, such as truncating timestamps and filtering posts based on date ranges (e.g., posts from the last month).
+Optimizing Queries with Window Functions and CTEs:
 
+Leveraged window functions to rank data dynamically and used CTEs for cleaner, more readable queries when working with complex joins.
+Problem-Solving and SQL Optimization:
 
-
+Developed a deeper understanding of how to structure SQL queries for optimal performance and readability while handling large datasets.
 
 
