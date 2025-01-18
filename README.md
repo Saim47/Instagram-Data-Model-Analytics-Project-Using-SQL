@@ -240,3 +240,4 @@ FROM (
     GROUP BY Posts.post_id
 ) AS likes_by_post;
 ```
+![1737012751131](https://github.com/user-attachments/assets/8ce517a3-8c0d-422a-9eaa-aa8b56249ab0)
